@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35396'
     url: http://www.gutenberg.org/2009/agents/35396
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31672#The-Triads-of-Ireland
 gutenberg_issued: '2010-03-17'
 gutenberg_type: Text
 identifiers:
