@@ -1,0 +1,29 @@
+_repo: The-Triads-of-Ireland_31672
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Meyer, Kuno
+    alias: Meyer, Kino
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '35396'
+    url: http://www.gutenberg.org/2009/agents/35396
+description: ''
+gutenberg_issued: '2010-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31672'
+  lccn: '12014089'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PB'
+- !lcsh 'Maxims'
+- !lcsh 'Proverbs, Irish'
+title: The Triads of Ireland
+url: http://www.gutenberg.org/ebooks/31672
